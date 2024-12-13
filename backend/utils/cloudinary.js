@@ -3,9 +3,9 @@ require('dotenv').config();
 
 const connectCloudinary = () => {
     cloudinary.config({
-        cloud_name: 'dqcdmx9mt',
-        api_key: '117769981468188',
-        api_secret: '6pwIm_zhSk3qUlGQJKHyDrE2y20',
+        cloud_name: 'drv57daxq',
+        api_key: '412653859829326',
+        api_secret: '2r0EGIr91Cwx8lk8aYRY8Uv9MnY',
     });
 };
 

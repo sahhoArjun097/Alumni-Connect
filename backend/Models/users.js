@@ -47,7 +47,7 @@ const userSchema = new Schema({
       password: {
         type: String,
         required: true,
-        minlength: 6
+        minlength: 5
       },
       profilePhoto: {
         type: String // This will store the file path or URL of the uploaded photo
